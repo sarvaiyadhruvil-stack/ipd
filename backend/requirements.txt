@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
+pdfplumber
+PyPDF2
+Pillow
+pytesseract
+pdf2image
+reportlab
+python-dotenv
